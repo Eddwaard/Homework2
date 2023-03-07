@@ -99,7 +99,7 @@ public class Main {
         var additionalStaff = 94.0;
         var allEmployee2 = allEmployee1 + additionalStaff;
         var allTimes = allTimesForWork/allEmployee2;
-        System.out.println("Если в компании работает " + allEmployee2 + " человек, то всего по " + allTimes + " часов работы может быть поделенно между сотрудниками.");
+        System.out.println("Если в компании работает " + allEmployee2 + " человек, то всего по " + allTimes + " часов работы может быть поделенно между сотрудниками!");
 
     }
 }
